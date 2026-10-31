@@ -1,6 +1,6 @@
 # Classic Control privacy policy
 
-_Last updated: October 30, 2026_
+_Last updated: October 31, 2026_
 
 Classic Control is published by Deck-Of-Jacks.
 
@@ -17,6 +17,10 @@ Classic Control collects no personal data, and it does not send any data off you
 - **Shortcuts.** The Shortcuts tab runs the PowerShell commands listed there (the built-ins or your own) only when you click one. Your shortcuts are saved in the same settings file.
 - **Other apps.** Some buttons open Windows tools such as Control Panel, Settings, Task Manager or Process Explorer. Each of those tools has its own behavior.
 
+## Changes to this policy
+
+If this policy changes, the updated version is posted at this same address with a new "Last updated" date.
+
 ## Contact
 
-Open an issue at https://github.com/IanD-Bot/privacy/issues.
+Questions or concerns about this policy? Open an issue at https://github.com/IanD-Bot/privacy/issues. Please don't include personal information in the issue.
