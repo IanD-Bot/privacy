@@ -16,6 +16,7 @@ Classic Network Monitor collects no personal data, and it does not send any data
 - **Traffic counts.** When you run the app as administrator, it counts packets and bytes per connection with a Windows kernel event session on your PC. The counts stay in memory and are not saved or sent.
 - **Local files.** A crash log and diagnostic logs are written to the app's local data folder on your PC. Nothing is uploaded. Uninstalling the app removes them.
 - **New since… history.** To mark apps that connect for the first time, the app keeps a small list of the programs that connected and the countries and purposes each one reached, in its local cache folder on your PC. The list is never uploaded or shared. You can delete it at any time with **New since… > Clear history**, and uninstalling the app removes it. Notifications about new apps are shown by Windows on your PC and can be turned off in the same menu.
+- **Data usage history.** When you run the app as administrator, it adds up the bytes each program sent and received per day and keeps up to 30 days of these totals in its local cache folder on your PC. Only program names and paths, dates and byte counts are stored; no addresses or content. The history is local only: it is never uploaded or shared. **New since… > Clear history** deletes it, and uninstalling the app removes it.
 - **Firewall rules.** "Make firewall rule" only saves a file you choose or copies a command to your clipboard. The app never changes your firewall.
 
 ## Changes to this policy
