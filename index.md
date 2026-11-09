@@ -9,5 +9,6 @@ title: Privacy policies
 - [Chronos Scroll](chronos-scroll)
 - [Card Game Maker](card-game-maker)
 - [The U in Web](the-u-in-web)
+- [Petty Darn File](petty-darn-file)
 
 Questions: open an issue at https://github.com/IanD-Bot/privacy/issues.
