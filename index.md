@@ -13,6 +13,6 @@ title: Privacy policies
 - [The U in Web](the-u-in-web)
 - [Petty Darn File](petty-darn-file)
 
-Support for these apps is at [Support](support).
+Support for these apps is at [Support](https://support.deckofjacks.com/).
 
 Questions about a privacy policy: open an issue at https://github.com/IanD-Bot/privacy/issues.
