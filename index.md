@@ -13,4 +13,6 @@ title: Privacy policies
 - [The U in Web](the-u-in-web)
 - [Petty Darn File](petty-darn-file)
 
-Questions: open an issue at https://github.com/IanD-Bot/privacy/issues.
+Support for these apps is at [Support](support).
+
+Questions about a privacy policy: open an issue at https://github.com/IanD-Bot/privacy/issues.
