@@ -8,6 +8,7 @@ title: Privacy policies
 - [Classic Firewall Advanced Rulesets](classic-firewall-advanced-rulesets)
 - [Classic Devices and Printers](classic-devices-and-printers)
 - [Classic Chippy](classic-chippy)
+- [Classic Taskbar Groups](classic-taskbar-groups)
 - [Chronos Scroll](chronos-scroll)
 - [Card Game Maker](card-game-maker)
 - [The U in Web](the-u-in-web)
