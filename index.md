@@ -8,6 +8,7 @@ title: Privacy policies
 - [Classic Firewall Advanced Rulesets](classic-firewall-advanced-rulesets)
 - [Classic Devices and Printers](classic-devices-and-printers)
 - [Classic Explorer](classic-explorer)
+- [Classic Music Maker](classic-music-maker)
 - [Classic Chippy](classic-chippy)
 - [Chronos Scroll](chronos-scroll)
 - [Card Game Maker](card-game-maker)
